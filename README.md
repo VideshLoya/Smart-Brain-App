@@ -5,6 +5,6 @@ Face Detection Algorithm.
 
 In the Frontend and Backend Project Directory, Run :
 
-   `#npm install`
+   # `npm install`
 
 Installs all the dependencies required for the Project.
